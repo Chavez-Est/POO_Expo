@@ -97,7 +97,7 @@ El encapsulamiento consiste en proteger los datos internos de un objeto y permit
 
 La abstracción consiste en mostrar únicamente la información necesaria para utilizar un objeto, ocultando los detalles internos de su funcionamiento.
 
-![Abstracción](imagenes/Abstraccion.png)
+![Abstracción](img/Abstraccion.png)
 
 ---
 
