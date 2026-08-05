@@ -6,17 +6,9 @@
 - Samuel (No se como se escribe tu apellido **carita avergonzada* *)
 - Maylee Gomez Yarce
 
----
-
 # 📖 Introducción
 
-Lo que vas a decir.
-
----
-
-# 🎯 Objetivos
-
-Si lo quieres agregar.
+La Programación Orientada a Objetos (POO) es un paradigma de programación que permite desarrollar software organizando el código en objetos. Cada objeto representa una entidad del mundo real y combina información (atributos) con acciones (métodos).
 
 ---
 
@@ -24,22 +16,35 @@ Si lo quieres agregar.
 
 ## Clase
 
-tu
+Una clase es un modelo o plantilla que define cómo serán los objetos. En ella se establecen los atributos (características) y los métodos (acciones) que tendrán todos los objetos creados a partir de esa clase.
 
 ## Atributos
 
-tu
+Los atributos representan las características o datos que describen un objeto.
+
+Ejemplos:
+
+- Nombre
+- Edad
+- Color
+- Marca
 
 ## Métodos
 
-tu
+Los métodos representan las acciones o comportamientos que puede realizar un objeto.
+
+Ejemplos:
+
+- cantar()
+- despegar()
+- lanzar()
+- aterrizar()
 
 ## Objeto
 
-tu
+Un objeto es una instancia de una clase. Es decir, representa un elemento específico creado a partir del modelo definido por la clase.
 
 ---
-
 # 💻 Ejemplo 1: Clase, atributos, métodos y objeto
 
 En este ejemplo se representa un **hechizo** mediante una clase en Kotlin. A partir de ella se crea un objeto, el cual posee atributos que describen sus características y un método que representa una acción.
@@ -172,8 +177,11 @@ fun main() {
 
 ---
 
-# ✅ Conclusiones
-tu
+# ✅ Conclusión
+
+Comprender la Programación Orientada a Objetos es fundamental porque cambia la forma de analizar y desarrollar software. En lugar de pensar únicamente en instrucciones, este paradigma invita a modelar problemas mediante clases y objetos que representan situaciones del mundo real.
+
+Este enfoque permite crear aplicaciones más organizadas, facilita el trabajo en equipo y hace que el código pueda mantenerse y ampliarse con mayor facilidad a medida que los proyectos crecen. Por ello, dominar estos conceptos no solo es importante para programar en Kotlin, sino que constituye una base para aprender otros lenguajes y desarrollar software de calidad.
 
 ---
 
