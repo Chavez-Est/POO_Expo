@@ -3,7 +3,7 @@
 ## 👥 Integrantes
 
 - Esthefany Chavez Parra
-- Samuel (No se como se escribe tu apellido **carita avergonzada* *)
+- Samuel Meneses Alvarez
 - Maylee Gomez Yarce
 
 # 📖 Introducción
